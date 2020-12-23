@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-Nothing here, for now :).
+Nothing here.
