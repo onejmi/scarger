@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me ⚡⚡
-Nothing here.
-
-7 Years and counting..
+### Hey! Welcome to my Github profile ⚡⚡
