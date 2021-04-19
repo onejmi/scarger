@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ### Hey! Welcome to my Github profile ⚡
-https://nejj.me/links
+Learn more: https://nejj.me/links
