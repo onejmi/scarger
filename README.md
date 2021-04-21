@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ### Hey! Welcome to my Github profile ⚡
-I build a lot of [things](https://github.com/scarger?tab=repositories). Be sure to check them out!
-Learn more: https://nejj.me/links
+I build a lot of [things](https://github.com/scarger?tab=repositories). Be sure to check them out!<br/>
+Important info: https://nejj.me/links
