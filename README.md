@@ -13,6 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey! Welcome to my Github 👋
-I build a lot of [things](https://github.com/scarger?tab=repositories). Be sure to check them out!<br/>
-Important info: https://nejj.me/links
